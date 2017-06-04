@@ -19,6 +19,8 @@ DoManager
 ~~~~~~~~~
 DoManager is a tool which helps you getting your things done. It's a ToDo list with the capability to create a time report of how much time you spent on each task. 
 
+`View DoManager at GitHub <https://github.com/viper3400/DoManager>`_
+
 
 QuickSFTP
 ~~~~~~~~~
