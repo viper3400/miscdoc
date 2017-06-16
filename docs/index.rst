@@ -5,9 +5,10 @@ This should serve as the entry point to all my development stuff. It should outl
 
 .. toctree::
    :maxdepth: 1
-   :caption: Namespace Conventions
+   :caption: Conventions
 
    namespace_conventions
+   logging_conventions
 
 .. toctree::
    :maxdepth: 1
