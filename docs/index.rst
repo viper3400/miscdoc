@@ -9,6 +9,7 @@ This should serve as the entry point to all my development stuff. It should outl
 
    namespace_conventions
    logging_conventions
+   commitmessagestandards
 
 .. toctree::
    :maxdepth: 1
