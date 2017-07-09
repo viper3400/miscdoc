@@ -1,7 +1,7 @@
 Standards for Commit Messages
 -----------------------------
 
-Genric commit messages
+Generic commit messages
 ======================
 
 * Removed obsolete code
