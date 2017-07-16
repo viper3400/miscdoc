@@ -17,7 +17,7 @@ This should serve as the entry point to all my development stuff. It should outl
 
    github_repo_overview
 
-   .. toctree::
+.. toctree::
    :maxdepth: 1
    :caption: Visual Studio Setup
 
