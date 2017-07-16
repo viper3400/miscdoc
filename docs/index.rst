@@ -21,6 +21,6 @@ This should serve as the entry point to all my development stuff. It should outl
    :maxdepth: 1
    :caption: Visual Studio Setup
 
-vs_setup
+    vs_setup
 
 
